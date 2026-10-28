@@ -1,4 +1,9 @@
-site_name: Testing Docs
-
-theme:
-  name: material
+nav:
+  - Home: index.md
+  - Overview: overview.md
+  - Processes:
+      - Sales: processes/sales.md
+      - Support: processes/support.md
+  - Reference:
+      - Glossary: reference/glossary.md
+      - FAQ: reference/faq.md
